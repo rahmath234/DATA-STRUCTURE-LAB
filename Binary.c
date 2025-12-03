@@ -1,4 +1,3 @@
-10. binary search trees
 
 #include <stdio.h>
 #include <stdlib.h>
